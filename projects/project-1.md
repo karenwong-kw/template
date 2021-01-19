@@ -13,10 +13,10 @@ summary: Small story based game developed for ICS 111.
 ---
 
 <div class="ui small rounded images">
+  <img class="ui image" src="../images/hb6.png">
   <img class="ui image" src="../images/hb5.png">
   <img class="ui image" src="../images/hb4.png">
   <img class="ui image" src="../images/hb3.png">
-  <img class="ui image" src="../images/hb2.png">
 </div>
 
 Homebound is a story text-based adventure game my classmate and I developed using Java and EZ Graphics (http://www2.hawaii.edu/~dylank/ics111/). Your consequences and choices hold heavy value. You will meet an array of characters with their own unique stories and go on to encounter mini games and puzzles along the way. The goal is to learn and ultimately choose what home means to you.
