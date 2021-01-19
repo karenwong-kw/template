@@ -13,7 +13,6 @@ summary: Small story based game developed for ICS 111.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/hb6.png">
   <img class="ui image" src="../images/hb5.png">
   <img class="ui image" src="../images/hb4.png">
   <img class="ui image" src="../images/hb3.png">
