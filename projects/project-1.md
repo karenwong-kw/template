@@ -20,25 +20,30 @@ summary: Small story based game developed for ICS 111.
   <img class="ui image" src="../images/hb2.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Homebound is a story text-based adventure game my classmate and I developed using Java and EZ Graphics (http://www2.hawaii.edu/~dylank/ics111/). Your consequences and choices hold heavy value. You will meet an array of characters with their own unique stories and go on to encounter mini games and puzzles along the way. The goal is to learn and ultimately choose what home means to you.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+To give you a feeling of the game, here is an excerpt from the introduction:
 
-Here is some code that illustrates how we read values from the line sensors:
+<hr>
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+<pre>
+It's different for everyone
+but the feeling is the same
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+There's a time when everyone must leave home
+What's your reason?
+
+Our home is dying 
+and our fate lies in the hands 
+of five unlikely heros..
+
+
+</pre>
+
+<hr>
+
+Walkthrough: https://www.youtube.com/watch?v=HSmw6Gjv2r0&feature=youtu.be&ab_channel=JustinY
+
 
 
 
