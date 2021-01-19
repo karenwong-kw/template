@@ -2,7 +2,7 @@
   "basics": {
     "name": "Karen Wong",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://karenwong-kw.github.io/images/moi.png",
     "email": "karenwon@hawaii.edu",
     "phone": "",
     "website": "https://karenwong-kw.github.io",
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "karenwong-kw",
+        "url": "http://github.com/karenwong-kw"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "karenwong-kw",
+        "url": "http://linkedin.com/in/karenwong-kw"
       }
     ]
   },
