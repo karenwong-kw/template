@@ -9,7 +9,7 @@ date: 2019-12-09
 labels:
   - Java
   - Game
-summary: Small story based game developed for ICS 111.
+summary: Small story based game developed for an intro class.
 ---
 
 <div class="ui small rounded images">
