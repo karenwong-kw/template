@@ -77,6 +77,13 @@
       "endDate": "Present",
       "gpa": "3.62",
       "courses": [
+        "ICS 111",
+        "ICS 211",
+        "ICS 212",
+        "ICS 241",
+        "ICS 242",
+        "ICS 311(current)",
+        "ICS 314(current)"
       ]
     }
   ],
@@ -94,7 +101,7 @@
       ]
     }
   ],
-  "activities": [
+  "volunteer": [
     {
       "organization": "ACM Manoa",
       "website": "http://acm.hawaii.edu/",
