@@ -1,25 +1,19 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/itsbuild.jpg
+title: ITS Help Desk 
+permalink: projects/itshelpdesk
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-12-28
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Information and Technology
+summary: Employment at ITS Help Desk.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/its.jpeg">
+The ITS Help Desk provides an array of services assisting users with problems they may face regarding UH owned services and devices. We help users that come in with hardware, data, software, or security issues. The most common work issues that are faced are helping users manage their UH account or troubleshoot Laulima.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+I am currently employed at ITS Help Desk as an "Information and Technology Student Assistant". My work there mainly consists of assisting users with problems through our phoneline or e-mails. We currently work with a system called "Cherwell" which manages the incoming requests. Cherwell systems will create tickets for us to debrief and work on. This requires me to work not only with what I know but what my coworkers and supervisors know so we can solve the problem the best we can. This work consists of a lot of team work and communication with each other. Because we are often times working with private and critical information, there is a lot of security involved. We work with different departments and higher level managment to find a solution. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://www.hawaii.edu/its/services/">
