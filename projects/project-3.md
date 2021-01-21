@@ -10,7 +10,7 @@ labels:
   - C/C++
   - Terminal
   - User Interface
-summary: An imitation of a bank databse and its user interface.
+summary: An imitation of a bank database and its user interface.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/db1.png">
