@@ -8,7 +8,7 @@ permalink: projects/homebound
 date: 2019-12-09
 labels:
   - Java
-  - Game
+  - Game Development
 summary: Small story based game developed for an intro class.
 ---
 
