@@ -41,7 +41,7 @@ of five unlikely heros..
 
 <hr>
 
-You can see the walkthrough on [YouTube](https://www.youtube.com/watch?v=HSmw6Gjv2r0&feature=youtu.be&ab_channel=JustinY).
+You can view the walkthrough on [YouTube](https://www.youtube.com/watch?v=HSmw6Gjv2r0&feature=youtu.be&ab_channel=JustinY).
 
 
 
