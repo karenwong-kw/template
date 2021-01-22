@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/itsbuild.jpg
+image: images/itsbuild.jp
 title: ITS Help Desk 
 permalink: projects/itshelpdesk
 # All dates must be YYYY-MM-DD format!
