@@ -9,13 +9,16 @@ labels:
   - Communication
 ---
 
-<img class="ui medium left floated image" src="../images/jsmeme.png">
+<img class="ui medium left floated image" src="../images/raise.jpeg">
 
-## Thoughts from a newbie
+## What the heck is a "smart" question?
 
-As someone who has very few experiences with programming, JavaScript comes across as something very easy to learn but hard to understand. My previous experiences with coding involves mostly object-oriented languages (Java, C/C++, Python). Because JavaScript shares the same characteristics, it is fairly easy to pick up. Most of the basic concepts are the same. 
+Everyone in their lifetime has gotten stuck on a problem. Unable to find a solution by ourselves, the only other option is to ask other people for help. Sometimes, this process becomes frustrating when even other people are unable to solve the issue. Time goes by as you are communicating back and forth and finally a solution! But after all of that frustration and work on both ends, it came down to a misunderstanding. They weren't able to understand the problem fully until the very end. All of this could have been avoided if the question being asked in the first place was a smart question. Eric Steven Raymond provides an enlighting input on how to ask questions the smart way. In his essay, he provides guidelines on how to accomplish this to solve problems you may have with programming. Asking questions the smart way shows that you took the time and effort into thinking this through. It shows you aren't wasting people's time and you've exhausted all the resources availble to you. 
 
-## Comparison of JavaScript as a whole
+## The Smart Way
 
-JavaScript is a strange but interesting language. After recently learning about C/C++, I have a better understanding of how coding works and the data manipulation behind things. Because I am used to the rules of Java and C/C++, JavaScript can come across as confusing sometimes. There are things that work in funny ways such as comparison and logical operators (especially == and ===). There are advantages to this despite how weird it feels. Values of variables are now super loose. I no longer have to worry about passing it the correct way. I mean it feels weird not to tell and specify every little thing to the computer. And I suppose this could come across as a disadvantage also. Debugging in JavaScript becomes much harder because things are done for you through the language. You can't change and manipulate specific things to your liking as much. But I suppose from a software engineering perspective, this language is much needed. Depending on if you are working on the front-end programming or back-end programming, JavaScript gives you that option to not focus on issues that aren't in your workload and focus on tasks that are. It is useful for web development because you can just focus on manipulating the media instead. Overall, JavaScript is a much needed language. It is useful in terms that it provides people with a different path to coding. 
+Stack Overflow is a rising community resource for developers that contain thousands of questions and thousands of answers. Everyday programmers come to these forumns to seek help or to provide help. This question here provides and example of a user asking a smart question. The user is asking on how to check if a string contains a substring in JavaScript. The user's initial question is clear and precise. They state the task they're working on, the language they're coding on, and a snippet of something they have tried but didn't work. By providing all the necessary details and even showing people the methods he have tried to overcome this, the question can be easily understood. Below are a few answers, providing just enough details on the solutions back. Other programmers, suggesting engaging solutions back proves the question was efficient enough.
+
+## The Not-So-Smart Way
+
 
