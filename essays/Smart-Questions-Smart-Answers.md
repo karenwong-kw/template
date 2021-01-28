@@ -19,9 +19,36 @@ Everyone in their lifetime has gotten stuck on a problem. Unable to find a solut
 
 Stack Overflow is a rising community resource for developers that contain thousands of questions and thousands of answers. Everyday programmers come to these forums to seek help or to provide help. This question [here](https://stackoverflow.com/questions/1789945/how-to-check-whether-a-string-contains-a-substring-in-javascript) provides and example of a user asking a smart question. The user is asking on how to check if a string contains a substring in JavaScript. The user's initial question is clear and precise. They state the task they're working on, the language they're coding on, and a snippet of something they have tried but didn't work. By providing all the necessary details and even showing people the methods they have tried to overcome this, the question is easily understood. Below are a few answers, providing just enough details on the solutions back. Other programmers, suggesting engaging solutions back proves the question was efficient enough.
 
+<hr>
+
+<pre>
+How to check whether a string contains a substring in JavaScript?
+
+Usually I would expect a String.contains() method, but there doesn't seem to be one.
+
+What is a reasonable way to check for this?
+
+
+
+</pre>
+
+<hr>
+
 ## The Not-So-Smart Way
 
 Sometimes questions go unanswered or barely get any answers. Most of the time, it isn't because no one knows how but the user did not ask in a smart way. In this question [here](https://stackoverflow.com/questions/65946370/is-there-something-i-am-not-calling-into-the-code), the user does not provide an exciting question. The question barely provides any details upfront about what the user is doing. They are just asking what is wrong without informing people what could be wrong or symptoms of the problem they are having. There is nothing on the error codes they are getting or what specifically they need help with. And you can see that many people found this question bad as there are currently no answers provided.
+
+<hr>
+
+<pre>
+Is there something i am not calling into the code?
+
+Please help i do not know what i need to input to allow the code to run. The top half will give back a response but the second half does not.
+
+
+</pre>
+
+<hr>
 
 ## Parting Thoughts
 
