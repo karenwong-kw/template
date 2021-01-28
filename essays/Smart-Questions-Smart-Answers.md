@@ -22,7 +22,7 @@ Stack Overflow is a rising community resource for developers that contain thousa
 <hr>
 
 <pre>
-How to check whether a string contains a substring in JavaScript?
+Q : How to check whether a string contains a substring in JavaScript?
 
 Usually I would expect a String.contains() method, but there doesn't seem to be one.
 
@@ -41,7 +41,7 @@ Sometimes questions go unanswered or barely get any answers. Most of the time, i
 <hr>
 
 <pre>
-Is there something i am not calling into the code?
+Q : Is there something i am not calling into the code?
 
 Please help i do not know what i need to input to allow the code to run. The top half will give back a response but the second half does not.
 
