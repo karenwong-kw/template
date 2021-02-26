@@ -16,20 +16,20 @@ As a person coming from a background of primarily coding in languages such as Ja
 <img class="ui medium left floated image" src="../images/without.png">
 
 Take a look at this web page. It has its basic structure of text, images, links, and paragraphs but it doesn’t look clean or appealing. The navigation bar is undistinguishable and there are barely any visual cues to where you are supposed to look at. It looks more like a sketch outline of what the final product should look like.
-<pre>
+
 <img class="ui medium left floated image" src="../images/with.png">
-</pre>
+
 
 Now here we add Semantic UI, a UI Framework. The navigation bar is clean and distinguishable. Users will know where to look without having to scan the whole page. Not only was this page friendlier to look at, it was easier to code too.
 
 In this example, we are creating a Title for the History on Chrome paragraph column. This code is just raw html.
-<pre>
-<h2><a name="Chrome">A brief history on Chrome</a></h2>
-</pre>
+<img class="ui medium left floated image" src="../images/witho.png">
+
 
 However we can use semantic UI vocabulary that just flows better. It’s more difficult to understand code that doesn’t flow like how english does. If we were to change the sizing of the column, we would have to figure out the size ourselves and change it in our style sheet.
 
-<div class="ui column"><h2 id="Chrome">A brief history of Chrome</h2>
+<img class="ui medium left floated image" src="../images/wwith.png">
+
 
 In this same line of code, we implemented semantic UI. Using the div class ui column, we clearly stated what this line is for so it is easier to understand what it does. If we wanted to change the size, we simply would just say “ui ten wide column” or however wide you wanted it to be. It will automatically change the sizing for you without worrying about the details too much.
 
