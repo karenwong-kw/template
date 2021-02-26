@@ -14,13 +14,16 @@ labels:
 As a person coming from a background of primarily coding in languages such as Java and C/C++, coding in HTML and CSS is a completely different experience. This entire experience has been very hands on and visually responsive. Every little change implemented can be seen within a couple of seconds. It made me realize how detailed you can get with this. Any option you can think of is possible as long as you know which switches to flip. That being said, it is incredibly tedious to compose ideas you have in your head with raw HTML and CSS. It’s like building your own home but you’re building it brick by brick with nothing but your hands. Sure, building everything one at a time is impressive however the amount of time and effort being put in may not fully satisfy you.
 
 <img class="ui medium left floated image" src="../images/without.png">
-<br>
+
 Take a look at this web page. It has its basic structure of text, images, links, and paragraphs but it doesn’t look clean or appealing. The navigation bar is undistinguishable and there are barely any visual cues to where you are supposed to look at. It looks more like a sketch outline of what the final product should look like.
 
 <img class="ui medium left floated image" src="../images/with.png">
-<br>
+<br><br><br><br><br><br>
+
 
 Now here we add Semantic UI, a UI Framework. The navigation bar is clean and distinguishable. Users will know where to look without having to scan the whole page. Not only was this page friendlier to look at, it was easier to code too.
+
+<hr>
 
 In this example, we are creating a Title for the History on Chrome paragraph column. This code is just raw html.
 
