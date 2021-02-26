@@ -28,7 +28,7 @@ Now here we add Semantic UI, a UI Framework. The navigation bar is clean and dis
 <hr>
 In this example, we are creating a Title for the History on Chrome paragraph column. This code is just raw html.
 
-## <h2><a name="Chrome">A brief history on Chrome</a></h2>
+## <pre><h2><a name="Chrome">A brief history on Chrome</a></h2></pre>
 
 
 However we can use semantic UI vocabulary that just flows better. It’s more difficult to understand code that doesn’t flow like how english does. If we were to change the sizing of the column, we would have to figure out the size ourselves and change it in our style sheet.
