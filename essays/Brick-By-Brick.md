@@ -16,9 +16,9 @@ As a person coming from a background of primarily coding in languages such as Ja
 <img class="ui medium left floated image" src="../images/without.png">
 
 Take a look at this web page. It has its basic structure of text, images, links, and paragraphs but it doesn’t look clean or appealing. The navigation bar is undistinguishable and there are barely any visual cues to where you are supposed to look at. It looks more like a sketch outline of what the final product should look like.
-
-<img class="ui medium left floated image" src="../images/with.png">
 <br><br><br><br><br><br>
+<img class="ui medium left floated image" src="../images/with.png">
+
 
 
 Now here we add Semantic UI, a UI Framework. The navigation bar is clean and distinguishable. Users will know where to look without having to scan the whole page. Not only was this page friendlier to look at, it was easier to code too.
