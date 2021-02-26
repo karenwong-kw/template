@@ -22,7 +22,7 @@ Take a look at this web page. It has its basic structure of text, images, links,
 
 
 Now here we add Semantic UI, a UI Framework. The navigation bar is clean and distinguishable. Users will know where to look without having to scan the whole page. Not only was this page friendlier to look at, it was easier to code too.
-
+<br><br><br><br><br><br>
 <hr>
 
 In this example, we are creating a Title for the History on Chrome paragraph column. This code is just raw html.
