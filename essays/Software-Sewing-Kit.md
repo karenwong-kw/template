@@ -17,7 +17,7 @@ Take a look at this basic pattern. This common form of stitching and placement c
 
 ## Design Pattern Catalog
 
-<img class="ui medium left floated image" src="../images/sp.png">
+<img class="ui medium left floated image" src="../images/sp.jpg">
 
 There are many different classifications for design patterns.
 
