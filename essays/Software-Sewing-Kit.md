@@ -21,11 +21,11 @@ Take a look at this basic pattern. This common form of stitching and placement c
 
 There are many different classifications for design patterns.
 
-<h2>Behavioral Design Patterns</h2>
+<h3>Behavioral Design Patterns</h3>
 
-<h2>Creational Design Patterns</h2>
+<h4>Creational Design Patterns</h4>
 
-<h2>Structural Design Patterns</h2>
+<h5>Structural Design Patterns</h5>
 
 <h2>Concurrency Design Patterns</h2>
 
