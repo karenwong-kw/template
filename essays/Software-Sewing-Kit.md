@@ -60,3 +60,7 @@ There are many different classifications for design patterns.
 </ul>
 
 <hr>
+
+## Editor's Choice
+
+When using desing patterns, you won't use just one or every single one. It's not one size fits all! Personally, I have only recently begun to incorporate them into my programs actively. Prototypes, which is a creational design pattern is one of the most frequent outlines I use. It is extremely useful in the sense that it helps specify the kinds of objects to create. You are able to change certain parts of the objects and it is simple to clone the object to make more of.
