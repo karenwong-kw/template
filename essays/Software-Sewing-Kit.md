@@ -23,10 +23,38 @@ There are many different classifications for design patterns.
 
 <h3>Behavioral Design Patterns</h3>
 
+<ul>
+  <li>Involves common communication patterns between objects</li>
+  <li>Iterator</li>
+   <li>State</li>
+  <li>Command</li>
+</ul>
+
 <h4>Creational Design Patterns</h4>
+
+<ul>
+  <li>Involves common communication patterns between objects</li>
+  <li>Iterator</li>
+   <li>State</li>
+  <li>Command</li>
+</ul>
 
 <h5>Structural Design Patterns</h5>
 
+<ul>
+  <li>Involves common communication patterns between objects</li>
+  <li>Iterator</li>
+   <li>State</li>
+  <li>Command</li>
+</ul>
+
 <h2>Concurrency Design Patterns</h2>
+
+<ul>
+  <li>Involves common communication patterns between objects</li>
+  <li>Iterator</li>
+   <li>State</li>
+  <li>Command</li>
+</ul>
 
 
