@@ -18,7 +18,7 @@ Take a look at this basic pattern. This common form of stitching and placement c
 ## Design Pattern Catalog
 
 <img class="ui center floated image" src="../images/sp.jpg">
-
+<br><br>
 There are many different classifications for design patterns.
 
 <h4>Behavioral Design Patterns</h4>
@@ -59,4 +59,4 @@ There are many different classifications for design patterns.
   <li>Thread Pool</li>
 </ul>
 
-
+<hr>
