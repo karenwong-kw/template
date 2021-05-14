@@ -24,8 +24,9 @@ Personally, I can see myself using this project management style for projects ou
 <hr>
 
 ## Open Source Software Development
-<img class="ui center floated image" src="../images/open.jpg">
 
+<img class="ui center floated image" src="../images/open.jpg">
+<br><br>
 This was not my first time experiencing the vast world of open source software development. I had in the past touched on some open source software here and there but have never actually realized how frequently and useful they are in programming. Not only are most of them free but they are easily accessible. Open source software allows the user to alter and make changes to the actual software code. This is great because you can learn how the thing works and use it for future ideas. Open source software also creates a lot of communities where people can share their modified code and the cool things they have found. With web development, the best way to learn how things work is to look at the code itself. From there you can alter it to fit your needs. Even outside of web development, having the code being widely distributed  can be one of the best ways to learn how certain programs and functions run. 
 
 <br>
