@@ -42,7 +42,7 @@ A page to search all recipes that has been posted to the application. Here, user
 
 <br>
 
-<h4>Search Page</h4>
+<h4>Add Recipe Page</h4>
 <img class="ui center floated image" src="../images/addr.PNG">
 <br><br>
 
