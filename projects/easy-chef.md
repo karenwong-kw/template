@@ -35,7 +35,7 @@ Here are some of the pages I was personally involved with:
 <br>
 
 <h4>Search Page</h4>
-<img class="ui center floated image" src="../images/search.png">
+<img class="ui center floated image" src="../images/search.PNG">
 <br><br>
 
 A page to search all recipes that has been posted to the application. Here, users can search by name and filter results based on dietary restrictions. The page will present a list of cards with recipes that meet the search results.
@@ -43,7 +43,7 @@ A page to search all recipes that has been posted to the application. Here, user
 <br>
 
 <h4>Search Page</h4>
-<img class="ui center floated image" src="../images/addr.png">
+<img class="ui center floated image" src="../images/addr.PNG">
 <br><br>
 
 A page to add recipes into the application for users to search and rate. Users can add options on dietary restrictions, estimated cost, tools needed, email contact, and instructions. This page is provides different types of fields for users to submit their recipe through the form. 
@@ -51,7 +51,7 @@ A page to add recipes into the application for users to search and rate. Users c
 <br>
 
 <h4>Admin Page</h4>
-<img class="ui center floated image" src="../images/admin.png">
+<img class="ui center floated image" src="../images/admin.PNG">
 <br><br>
 
 The admin home page is presented after a user logs-in with an account that “admin” role. Accounts with the “admin” role has an additional option in the navigation bar called “Admin” that allows one to view all items (users, recipes, vendors, etc.) in the system.
