@@ -27,6 +27,8 @@ For college students, money is always of concern for anything including the meal
 ## Development
 
 Being that this was my first group web application project, it was a fun learning experience. Our team of four constructed this web page to help broke college students discover new recipes and vendors. We had much work involving how database and collections worked and the different types of user permissions. On top of that, we had to consider how accessible the website is to a normal user and what functionality is needed. 
+<br>
+In this project I learned a lot about UI frameworks, agile project management, and the capabilities of IDE’s. Compared to my older projects, I found tools and functions already made for programmers to code easier like Underscore and React. Learning how databases and how the client and server interact with each other was a little more difficult because I have never taken a database class. However, I still did a great deal of learning about how objects in collections can be interacted with. 
 
 <br>
 
