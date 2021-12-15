@@ -16,7 +16,7 @@ With my previous experience in ICS 314, I was excited to start off this semester
 ## Customer Client Meetings
 
 <img class="ui center floated image" src="../images/meeting.jpeg">
-<br><br>
+
  With ICS 414 I was exploring the main concepts that I learned before but on a deeper level. One of the main things being that we have a real customer now. This year our customer was the HOME project group that were a group of students, doctors, and volunteers that provide free medical care to the homeless. The goal of the project was to develop a real working web application for them to track, log, and dispense medicine and supplies. Having an actual customer allowed us to get constant feedback on changes they may want or suggestions they may have. That way the application is always under development and constantly making slight changes. Security questions like what services or access should certain users have from 314 were taken more seriously this time. We had to think about the details and work around the restrictions put in place for us. An example of this was when the idea of only hawaii.edu accounts could do certain tasks. Another thing was the UI. How the user interacts with the page is very important. We had to make the application easy to understand and easy to interact with. This was because they have a lot of students going in and out of the program and they wanted something anyone can pick up with very little training. 
  
 <img class="ui center floated image" src="../images/medwarriors.png">
