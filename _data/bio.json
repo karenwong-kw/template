@@ -6,7 +6,7 @@
     "email": "karenwon@hawaii.edu",
     "phone": "",
     "website": "https://karenwong-kw.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "github",
-        "username": "karenwong-kw",
+        "username": "karewon",
         "url": "http://github.com/karenwong-kw"
       },
       {
@@ -53,7 +53,11 @@
         "C++",
         "Java",
         "Javascript",
-        "HTML/CSS"
+        "HTML/CSS",
+        "Semantic UI",
+        "React",
+        "Meteor",
+        "Spring Boot"
       ]
     },
     {
@@ -63,7 +67,7 @@
         "MacOS",
         "Windows",
         "Git/GitHub",
-        "g++",
+        "IntelliJ",
         "Terminal"
       ]
     }
@@ -77,39 +81,44 @@
       "endDate": "Present",
       "gpa": "3.62",
       "courses": [
-        "ICS 111",
-        "ICS 211",
-        "ICS 212",
-        "ICS 241",
-        "ICS 242",
-        "ICS 311(current)",
-        "ICS 314(current)"
+        "ICS 111 - Intro to Computer Science I",
+        "ICS 211 - Intro to Computer Science II",
+        "ICS 212 - Program Structure",
+        "ICS 241 - Discrete Math I",
+        "ICS 242 - Discrete Math II",
+        "ICS 311 - Algorithms",
+        "ICS 312 - Machine Level and Systems Programming",
+        "ICS 321 - Data Storage",
+        "ICS 332 - Operating Systems",
+        "ICS 314 - Software Engineering I"
+        "ICS 414 - Software Engineering II",
+        "
+        
       ]
     }
   ],
   "work": [
     {
       "company": "UH Information Technology Services",
+      "position": "Java Web Programmer",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2021-8",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Assist with various project teams with the development and maintenance of system-wide web applications"
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2020-28-12",
-      "endDate": "Present",
+      "endDate": "2021-12",
       "summary": "",
       "highlights": [
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "ACM Manoa",
-      "website": "http://acm.hawaii.edu/",
-      "position": "Member",
-      "startDate": "2019",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
       ]
     }
   ],
